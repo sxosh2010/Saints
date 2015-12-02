@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Edu App</title>
+<link rel="stylesheet" type="text/css" href="Edu app.css">
+
+</head>
+<body>
+	<form>
+
+
+
+<div class="edu app"></div>
+
+<script type="text/javascript"></script>
+
+
+<input type="text"  id="avive" placeholder="Name" >
+</input>
+<br>
+
+<input type="text" id="#"  placeholder="Location">
+</inpu>
+<br>
+
+<input type="text" id="#"  placeholder="Latitude">
+</input>
+<br>
+
+<input type="text" id="#" placeholder="Longitude">
+</input>
+<br>
+<button type="text" id="btn">submit</button>
+
+	</form>
+
+</script>
+
+
+</body>
+
+
+</html>
