@@ -8,7 +8,7 @@
 ## Pictures
 
 Tasks (KanBan Board)
-https://cloud.githubusercontent.com/assets/14108433/11527769/889434a2-98eb-11e5-96e8-bc6688e4d8ee.jpg
+![](https://cloud.githubusercontent.com/assets/14108433/11527769/889434a2-98eb-11e5-96e8-bc6688e4d8ee.jpg)
 
 Tech Stack
 https://cloud.githubusercontent.com/assets/14108433/11527773/88989876-98eb-11e5-8cda-394f2fe536f4.jpg
